@@ -1,4 +1,4 @@
-//nao entendi aonde eu usaria laços de repetiçao
+//nao entendi aonde eu usaria laços de repetiçao (for, while, do-while) 
 
 //declaro variavel
 
@@ -27,6 +27,8 @@ if ((expHeroi >= 0) && (expHeroi <= 1000)){
 }else{
   nivelHeroi = "Madeira"
 }
+
+//output
 
 console.log("O Heroi chamado " + nomeHeroi + " esta no nivel " + nivelHeroi)
 
